@@ -1,0 +1,2 @@
+rootProject.name = "udf-android"
+include ':udf-android'

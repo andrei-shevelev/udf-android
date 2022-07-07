@@ -30,7 +30,7 @@ android {
 
 dependencies {
 
-    api ("com.github.andrei-shevelev:udf:0.0.2")
+    api ("com.github.andrei-shevelev:udf:0.0.3")
     implementation("androidx.lifecycle:lifecycle-runtime-ktx:2.4.1")
     implementation("androidx.fragment:fragment-ktx:1.4.1")
     kapt("androidx.lifecycle:lifecycle-compiler:2.4.1")
